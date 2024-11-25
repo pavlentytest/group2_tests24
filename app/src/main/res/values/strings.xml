@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="auth_successful">Auth successful!</string>
+    <string name="auth_failed">Auth failed!</string>
+</resources>
